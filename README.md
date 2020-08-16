@@ -1,6 +1,6 @@
 # Action-RPG
 
-Following this tutorial series:
+Following this Godot tutorial series:
 
 https://www.youtube.com/playlist?list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a
 
